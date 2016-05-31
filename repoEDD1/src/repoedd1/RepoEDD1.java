@@ -7,7 +7,7 @@ package repoedd1;
 
 /**
  *
- * @author W
+ * @author W                   
  */
 public class RepoEDD1 {
 
@@ -16,7 +16,13 @@ public class RepoEDD1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+<<<<<<< HEAD
         System.out.println ("IDE Netbeans");
+=======
+    	System.out.print ("Hello World.");
+    	System.out.println ("IDE Eclipse");
+    	System.out.println ("Altra modificació des de IDE Eclipse");
+>>>>>>> origin/master
     }
     
 }
