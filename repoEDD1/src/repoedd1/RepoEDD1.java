@@ -16,13 +16,10 @@ public class RepoEDD1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-<<<<<<< HEAD
         System.out.println ("IDE Netbeans");
-=======
     	System.out.print ("Hello World.");
     	System.out.println ("IDE Eclipse");
-    	System.out.println ("Altra modificaciÛ des de IDE Eclipse");
->>>>>>> origin/master
+    	System.out.println ("Altra modificaci√≥ des de IDE Eclipse");
     }
     
 }
